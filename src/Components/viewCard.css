@@ -1,0 +1,20 @@
+.title{
+    font-size: 30px;
+}
+.description{
+    font-size: 25px;
+    width: 80vw;
+    height: fit-content;
+    border:solid;
+    border-color: #F86726;
+    background-color: white;
+
+}
+.items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin:30px;
+}

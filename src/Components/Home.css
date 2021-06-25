@@ -1,0 +1,24 @@
+.create-button{
+    height: fit-content;
+    width: fit-content;
+    border:solid;
+    border-color: #F77E8D;
+    color: #F86726;
+    font-size: large;
+    margin:30px;
+    border-radius: 25px;
+    padding: 15px;
+    font-family: 'CourgetteRegular';
+}
+.del-button{
+    height: fit-content;
+    width: fit-content;
+    color: gray;
+    border:solid;
+    font-size: medium; 
+    border-radius: 25px;
+    padding: 10px;
+    margin-bottom:20px;
+    margin-top: 5px;
+    font-family: 'CourgetteRegular';
+}

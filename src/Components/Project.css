@@ -1,0 +1,40 @@
+.title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.description{
+    font-size: 25px;
+    width: 70vw;
+    height: fit-content;
+    background-color: white;
+    border:solid;
+    border-color: #F86726;
+    margin:7px;
+    border-radius: 25px;
+}
+.items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin:10vh;
+}
+.head{
+    font-size: 40px;
+    margin : 30px;
+    border:solid;
+    height:fit-content;
+    width: fit-content;
+    border-color: #FB9958;
+    padding: 2%;
+    border-radius: 25px;
+}
+.project{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    
+}
